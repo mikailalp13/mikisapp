@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "527254672635",
+    "firebase_url": "https://mikisapp1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mikisapp1",
+    "storage_bucket": "mikisapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527254672635:android:bd6758a48957f5299e8c5e",
+        "android_client_info": {
+          "package_name": "com.example.mikisapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-QyFi0ZAWOPIjarZTLQxfXwtC-awcxm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/logout"
+        android:title="Çıkış Yap"/>
+    <item
+        android:id="@+id/chats"
+        android:icon="@drawable/chats"
+        android:title="Konuşmalar"/>
+    <item
+        android:id="@+id/users"
+        android:icon="@drawable/users"
+        android:title="Kullanıcılar"/>
+
+</menu>
